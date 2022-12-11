@@ -1,7 +1,9 @@
 "# employeePy" 
-1-Install python
 
-Run the following toinstall packages
+Install python
+--------------------------------
+
+Run the following to install packages
 -------------------------------------------
 
 pip install openpyxl
@@ -10,14 +12,13 @@ pip install xlrd
 pip install wheel
 pip install pandas
 
-
----------------------
 To run and debug : python ers.py
+---------------------
 
 else double click on it it will open
 
+login Credentials
 --------------
-login
 user:admin
 password: admin1234
 
