@@ -1,0 +1,25 @@
+1-Install python
+
+Run the following toinstall packages
+-------------------------------------------
+
+pip install openpyxl
+pip install xlrd
+
+pip install wheel
+pip install pandas
+
+
+---------------------
+To run and debug : python ers.py
+
+else double click on it it will open
+
+--------------
+login
+user:admin
+password: admin1234
+
+-------------------------------------
+Attendance and salary not done, you install and run till this point, 
+If it works fine, please let me know. Will add the salary and attendance part
